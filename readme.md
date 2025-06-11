@@ -46,6 +46,7 @@ export const mfConfig = {
   },
   shared: ["react", "react-dom"],
 };
+```
 
 - **Host**: Loads remote modules at runtime.
 - **Remotes**: Example remote (`react_remote`) must be running and accessible at the specified URL.
