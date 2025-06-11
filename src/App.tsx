@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom/client";
-import Button from "react_remote/Button";
+import Button from "remote/Button";
 import "./index.css";
 
 const App = () => (
